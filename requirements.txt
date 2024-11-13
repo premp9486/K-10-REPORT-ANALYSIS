@@ -1,0 +1,13 @@
+Flask
+pandas
+nltk
+PyPDF2
+matplotlib
+seaborn
+scikit-learn
+gensim
+flask-cors
+wordcloud
+openpyxl
+torch
+transformers
